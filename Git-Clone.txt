@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Clone a repository into a new directory on your own computer so you can pick up where you left off.
