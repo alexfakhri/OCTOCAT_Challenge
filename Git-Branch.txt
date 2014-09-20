@@ -1,1 +1,1 @@
-Clone a repository into a new directory on your own computer so you can pick up where you left off.
+Git Brnsches allow you to creat new lines of development without effecting the master branch, so you can make changes to a project without effecting the working/master copy.
